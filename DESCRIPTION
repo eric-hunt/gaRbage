@@ -5,9 +5,9 @@ Version: 0.1.0
 Author: Eric Hunt
 Maintainer: Eric Hunt <52219938+eric-hunt@users.noreply.github.com>
 Description: `gaRbage` is an R package for that random but sometimes useful
-code. There are some general functions for manipulating nucleic acid sequences
-and generating some useful reference vectors.
+  code.
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
-RoxygenNote: 7.1.2
+RoxygenNote: 7.3.2.9000
+Imports: 
+    stringr
